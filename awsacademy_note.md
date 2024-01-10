@@ -1,3 +1,4 @@
+# Module 1
 ## Introduction to cloud computing
 ![Alt text](image-17.png)
 ### 3 cloud service models
@@ -90,3 +91,55 @@ network pipelines, and switches.
 ![Alt text](image-16.png)
 
 
+# Module 2
+## Fundamentals of Pricing 
+### AWS pricing model
+#### 3 fundamental drivers of cost with AWS
+![Alt text](image-18.png)
+1. *Compute* --charged per hour/second, varies by instance type
+2. *Storage* --charged typically per GB
+3. *Data transfer* --Inbound has no charge, outbound is aggregated and charged, charged typically per GB
+
+#### How do you pay for AWS?
+![Alt text](image-19.png)
+1. pay for what you use
+   ![Alt text](image-20.png)
+2. pay less when you reserve
+   ![Alt text](image-21.png)
+3. pay less when you use more and as AWS grows
+   ![Alt text](image-22.png)
+> *charge every month*
+
+#### AWS Free Tier
+![Alt text](image-23.png)
+
+
+#### Services with no charge
+![Alt text](image-24.png)
+
+
+## Total cost of ownership
+### On-premises versus cloud
+![Alt text](image-25.png)
+
+
+### What is Total Cost of Ownership(TCO)?
+![Alt text](image-26.png)
+1. TCO is the financial estimate to help identify direct and indirect costs of a system
+2. why use TCO ?
+   1) To compare the costs of running an entire infrastructure environment or specific workload on-premises versus on AWS
+   2) To budget and build the business case for moving to the cloud
+
+### TCO considerations --on-premises
+![Alt text](image-27.png)
+
+### On-premises versus all-in-cloud
+![Alt text](image-28.png)
+
+
+### AWS Pricing Calculator
+![Alt text](image-29.png)
+![Alt text](image-30.png)
+
+### Additional benefit considerations
+![Alt text](image-31.png)

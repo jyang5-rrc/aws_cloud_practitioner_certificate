@@ -158,3 +158,13 @@ network pipelines, and switches.
 5. Accessing AWS organzations
    ![Alt text](image-36.png) 
   
+### AWS Billing
+ ![Alt text](image-37.png)
+ #### Tools
+ ![Alt text](image-38.png)
+ #### Bills page
+ ![Alt text](image-39.png)
+ ![Alt text](image-40.png)
+ ![Alt text](image-41.png)
+ ![Alt text](image-42.png)
+ 

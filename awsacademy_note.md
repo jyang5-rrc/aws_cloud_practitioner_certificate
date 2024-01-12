@@ -143,3 +143,18 @@ network pipelines, and switches.
 
 ### Additional benefit considerations
 ![Alt text](image-31.png)
+
+### AWS Organizations
+> AWS Organization is a free account management service that enables you to consolidate multiple AWS accounts into an organizational tree with each branch representing a department or team.
+
+1. AWS Organizations terminology
+   ![Alt text](image-32.png)
+2. Key features and benefits
+   ![Alt text](image-33.png)
+3. Security with AWS Organizations
+   ![Alt text](image-34.png)
+4. Organizations setup
+    ![Alt text](image-35.png) 
+5. Accessing AWS organzations
+   ![Alt text](image-36.png) 
+  

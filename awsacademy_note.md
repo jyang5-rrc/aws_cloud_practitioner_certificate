@@ -117,6 +117,49 @@ network pipelines, and switches.
 #### Services with no charge
 ![Alt text](image-24.png)
 
+> There are several free AWS services, including: 
+•Amazon VPC
+•Elastic Beanstalk
+•AWS CloudFormation
+•IAM
+•Automatic scaling
+services
+•AWS OpsWorks
+•Consolidated Billing 
+
+1. Amazon Virtual Private Cloud (Amazon VPC)
+enables you to provision a logically isolated 
+section of the AWS Cloud where you can launch AWS resources in a virtual network that you 
+define.
+2. AWS Identity and Access Management (IAM)
+controls your users’ access to AWS services and 
+resources.
+3. Consolidated Billing 
+is a billing feature in AWS Organizations to consolidate payment for 
+multiple AWS accounts or multiple Amazon Internet Services Private Limited (AISPL) 
+accounts*. Consolidated billing provides:
+   > One bill 
+for multiple accounts.
+•The ability to 
+easily track 
+each account’s charges.
+•The opportunity to decrease charges as a result of volume pricing discounts from 
+combined usage
+•And you can consolidate all of your accounts using Consolidated Billing and get tiered 
+benefits.
+4. AWS Elastic Beanstalk 
+is an even easier way for you to quickly deploy and manage applications 
+in the AWS Cloud.
+5. AWS CloudFormation
+gives developers and systems administrators an easy way to create a 
+collection of related AWS resources and provision them in an orderly and predictable fashion.
+6. Automatic Scaling
+automatically adds or removes resources according to conditions you 
+define. The resources you are using increase seamlessly during demand spikes to maintain 
+performance and decrease automatically during demand lulls to minimize costs.
+7. AWS OpsWorks 
+is an application management service that makes it easy to deploy and 
+operate applications of all shapes and sizes.
 
 ## Total cost of ownership
 ### On-premises versus cloud
@@ -167,4 +210,28 @@ network pipelines, and switches.
  ![Alt text](image-40.png)
  ![Alt text](image-41.png)
  ![Alt text](image-42.png)
- 
+
+
+### Technical Support Models
+![Alt text](image-43.png)
+![Alt text](image-44.png)
+> The TAM can provide guidance, 
+architectural review, and continuous ongoing communication to keep you informed and prepared 
+as you plan, deploy, and optimize your solutions.
+
+> AWS Trusted Advisor is like a 
+customized cloud expert.
+It 
+is an online resource that checks for opportunities to reduce monthly 
+expenditures and increase productivity.
+
+> Support Concierge 
+is a billing and account expert who will provide 
+quick and efficient analysis on billing and account issues. The concierge addresses all non
+-technical billing and account-level inquiries. 
+
+![Alt text](image-45.png)
+![Alt text](image-47.png)
+![Alt text](image-48.png)
+![Alt text](image-46.png)
+![Alt text](image-49.png)

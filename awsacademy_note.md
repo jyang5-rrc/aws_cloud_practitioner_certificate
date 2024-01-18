@@ -235,3 +235,12 @@ quick and efficient analysis on billing and account issues. The concierge addres
 ![Alt text](image-48.png)
 ![Alt text](image-46.png)
 ![Alt text](image-49.png)
+
+
+# Module 3
+## AWS Global Infrastructure
+The AWS Global Infrastructure is designed and build to deliver a flexible, reliable, scalable, and secure cloud computing environment with high-quality global network performance.
+
+![Alt text](image-50.png)
+
+

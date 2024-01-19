@@ -240,7 +240,29 @@ quick and efficient analysis on billing and account issues. The concierge addres
 # Module 3
 ## AWS Global Infrastructure
 The AWS Global Infrastructure is designed and build to deliver a flexible, reliable, scalable, and secure cloud computing environment with high-quality global network performance.
-
+### AWS Regions
 ![Alt text](image-50.png)
+> Data wil not be duplicated without the region.
+> Data duplication from one region to another is decided by users.
+### Selecting a Region
+![Alt text](image-51.png)
+### Availability Zones
+![Alt text](image-52.png) 
+### AWS data centers
+![Alt text](image-53.png)    
+>ODMs: Original Device Manufacturers
+### Point of Presence     
+![Alt text](image-55.png)                             
+>入网点：网络服务提供点又称入网点（POP，Point of Presence），是不同网络或通信设备相互建立连接的接入点。POP必需有一个唯一的IP地址。互联网服务提供商（ISP）或 互联网内容提供商（ICP）在互联网上至少有一个入网点，而其入网点数量常被用来衡量规模和增长速度。
+
+>Amazon CloudFront： a global content Delivery Network(CDN),that delivers content to end users with reduced latency.
+
+>Amazon Route 53 is a Domain Name System, DNS service.
+
+>Regional edge cashes are used by default with Amazon CloudFront.
+
+### AWS infrastructure features
+![Alt text](image-54.png)
+
 
 

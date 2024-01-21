@@ -240,16 +240,43 @@ quick and efficient analysis on billing and account issues. The concierge addres
 # Module 3
 ## AWS Global Infrastructure
 The AWS Global Infrastructure is designed and build to deliver a flexible, reliable, scalable, and secure cloud computing environment with high-quality global network performance.
+> AWS has 22 Regions worldwide. An 
+AWS Regionis a physical geographical location with one or more Availability Zones. Availability Zones in turn consist of one or more data centers.
+
 ### AWS Regions
 ![Alt text](image-50.png)
+
+>To achieve fault tolerance and stability, Regions are isolated from one another. 
+
 > Data wil not be duplicated without the region.
+
 > Data duplication from one region to another is decided by users.
 ### Selecting a Region
 ![Alt text](image-51.png)
+> One essential consideration is data governance and legal requirements. Local laws might require that certain information be kept within geographical boundaries. Such laws might restrict the Regions where you can offer content or services.
+>
+>All else being equal, it is generally desirable to run your applications and store your data in a 
+Region that is as close as possible to the user and systems that will access them. This will help 
+you 
+reduce latency. 
+CloudPing is one website that you can use to test latency between your 
+location and all AWS Regions
 ### Availability Zones
 ![Alt text](image-52.png) 
 ### AWS data centers
 ![Alt text](image-53.png)    
+>Each location is carefully evaluated to mitigate environmental risk. 
+>
+   >•Data centers have a redundant design that anticipates and tolerates failure while maintaining service levels. 
+>
+   >•To ensure availability, critical system components are backed up across multiple Availability Zones. 
+>   
+   >•To ensure capacity, AWS continuously monitors service usage to deploy infrastructure to support availability commitments and requirements. 
+>   
+   >•Data center locations are not disclosed and all access to them is restricted.
+>   
+   >•In case of failure, automated processes move data traffic away from the affected area. 
+
 >ODMs: Original Device Manufacturers
 ### Point of Presence     
 ![Alt text](image-55.png)                             
@@ -261,8 +288,65 @@ The AWS Global Infrastructure is designed and build to deliver a flexible, relia
 
 >Regional edge cashes are used by default with Amazon CloudFront.
 
-### AWS infrastructure features
+> AWS Shield, AWS Web Application Firewall services.
+
+### AWS infrastructure features(benefits)
 ![Alt text](image-54.png)
 
+![Alt text](image-65.png)
 
+## AWS services
+### AWS foundational services
+![Alt text](image-56.png)
+### AWS categories of services
+![Alt text](image-57.png) 
+> There are 23 different products or service categories, and each category consist of one or more services.
+### Storage service category
+![Alt text](image-58.png)
+> AWS S3 : offers scalability data availability, security and performance. Use it to store and protect any amount of data for websites, mobile apps, backup and restore, archive, enterprise applications, Internet of Things (IoT) devices, and big data analytics. 
+
+> AWS EBS: it is a high performance block storage designed for use with Amazon EC2 for both throughput and transaction-intensive workloads.such as relational and non-
+relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows.
+
+> AWS EFS: provides a scalable fully managed elastic network file system(NSF) for use within AWS Cloud services and on-premise resources.
+
+> AWS simple storage service glacier: durable and extremely low cost AWS S3 Cloud storage class for data archiving and  long-ter backup.
+
+### Computer service category
+![Alt text](image-59.png)
+> AWS EC2(elastic computer cloud): provides resizable computer capacity as virtual machines in the cloud.
+>
+> Amazon EC2 Auto Scaling enables you to automatically add or remove EC2 instances according to conditions that you define. 
+>
+>Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers. 
+>
+>Amazon Elastic Container Registry (Amazon ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. 
+>
+>AWS Elastic Beanstalk is a service for deploying and scaling web applications and services on familiar servers such as Apache and Microsoft Internet Information Services (IIS). 
+>
+>AWS Lambda enables you to run code without provisioning or managing servers. You pay only for the compute time that you consume. There is no charge when your code is not running.
+>
+>Amazon Elastic Kubernetes Service (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications that use Kubernetes on AWS.
+>
+>AWS Fargate is a compute engine for Amazon ECS that allows you to run containers without having to manage servers or clusters.
+
+### Database service category
+![Alt text](image-60.png)
+![Alt text](image-66.png)
+
+### Networking and content delivery service category
+![Alt text](image-61.png)
+![Alt text](image-67.png)
+![Alt text](image-68.png)
+
+### Security, identity and compliance service category
+![Alt text](image-62.png)
+![Alt text](image-69.png)
+
+### AWS cost management service category
+![Alt text](image-63.png)
+![Alt text](image-70.png)
+### Management and governance service category
+![Alt text](image-64.png)
+![Alt text](image-71.png)
 
